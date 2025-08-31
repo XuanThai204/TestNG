@@ -1,0 +1,43 @@
+{
+    "User_data_test":[
+        {
+            "mobileNumber": "08650645231",
+            "email": "abc@gmail.com",
+            "gst": "22AAAAA0000A1Z5"
+        },
+        {
+            "mobileNumber": "086506452311",
+            "email": "abc@gmail.com",
+            "gst": "22AAAAA0000A1Z5"
+        },
+        {
+            "mobileNumber": "0865064523",
+            "email": "abc@gmail.com",
+            "gst": "22AAAAA0000A1Z5"
+        },
+        {
+            "mobileNumber": "",
+            "email": "abc@gmail.com",
+            "gst": "22AAAAA0000A1Z5"
+        },
+        {
+            "mobileNumber": "08650645231",
+            "email": "+-@gmail.com",
+            "gst": "22AAAAA0000A1Z5"
+        },
+        {
+            "mobileNumber": "08650645231",
+            "email": "abc@icloud.com",
+            "gst": "22AAAAA0000A1Z5"
+        },
+        {
+            "mobileNumber": "08650645231",
+            "email": "",
+            "gst": "22AAAAA0000A1Z5"
+        },
+        {
+            "mobileNumber": "08650645231",
+            "email": "abc@gmail.com",
+            "gst": ""
+        }
+]}

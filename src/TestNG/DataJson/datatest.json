@@ -1,0 +1,40 @@
+{
+    "Address_Data_Testing":[
+        {
+            "fullname": "Le Van A",
+            "email": "abc@gmail.com",
+            "mobile":"098098023",
+            "description": "Web can them icon cho nhieu mau sac"
+        },
+        {
+            "fullname": "123",
+            "email": "123",
+            "mobile":"123",
+            "description": "123"
+        },        
+        {
+            "fullname": "",
+            "email": "abc@gmail.com",
+            "mobile":"098098023",
+            "description": "Web can them icon cho nhieu mau sac"
+        },        
+        {
+            "fullname": "Le Van A",
+            "email": "",
+            "mobile":"098098023",
+            "description": "Web can them icon cho nhieu mau sac"
+        },
+        {
+            "fullname": "Le Van A",
+            "email": "abc@gmail.com",
+            "mobile":"",
+            "description": "Web can them icon cho nhieu mau sac"
+        },
+        {
+            "fullname": "Le Van A",
+            "email": "abc@gmail.com",
+            "mobile":"098098023",
+            "description": ""
+        }
+    ]
+}

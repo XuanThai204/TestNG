@@ -1,0 +1,63 @@
+{
+    "User_data_test":[
+        {
+            "fullname": "Lê Văn A",
+            "phone":"0867054986",
+            "class": "Lớp 10"
+        },
+        {
+            "_Comment": "FullName 50 ký tự MAX",
+            "fullname": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "phone":"0867054986",
+            "class": "Lớp 11"
+        },
+        {
+            "_Comment": "FullName 51 ký tự ",
+            "fullname": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "phone":"0867054986",
+            "class": "Lớp 11"
+        },
+        {
+            "_Comment": "FullName 1 ký tự ",
+            "fullname": "A",
+            "phone":"0867054986",
+            "class": "Lớp 11"
+        },
+        {   "_Comment": "phone 11 ký tự",
+            "fullname": "Lê Văn A",
+            "phone": "08670549861",
+            "class": "Lớp 12"
+        },
+        {   "_Comment": "phone 9 ký tự",
+            "fullname": "Lê Văn A",
+            "phone": "086705498",
+            "class": "Lớp 12"
+        },
+        {   "_Comment": "Test Lớp",
+            "fullname":"Le Van A",
+            "phone": "0867054986",
+            "class": "Lớp 10"
+        },
+        {   "_Comment": "Test Lớp",
+            "fullname":"Le Van A",
+            "phone": "0867054986",
+            "class": "Lớp 11"
+        },
+        {   "_Comment": "Test Lớp",
+            "fullname":"Le Van A",
+            "phone": "0867054986",
+            "class": "Lớp 12"
+        },
+        {   
+            "_Comment" : "Test Format",
+            "fullname":"_+",
+            "phone":"0867054986",
+            "class": "Lớp 12"
+        },
+        {
+            "_Comment" : "Test Format",
+            "fullname":"Lê Văn A",
+            "phone":"+_",
+            "class": "Lớp 12"
+        }
+]}
